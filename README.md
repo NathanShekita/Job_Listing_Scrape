@@ -1,5 +1,5 @@
 # Scrape job listings from EmCare's website
-This code (currently fully functional) is intended to scrape job titles, facilities, and locations a physician-outsourcing firm, EmCare, operates in. It is used as part of our identification strategy in the following paper: [Surprise! Out-of-Network Billing for Emergency Care in the United States](https://www.journals.uchicago.edu/doi/abs/10.1086/708819)
+This code (currently fully functional) is intended to scrape job titles, facilities, and locations that a physician-outsourcing firm, EmCare, operates in. It is used as part of our identification strategy in the following paper: [Surprise! Out-of-Network Billing for Emergency Care in the United States](https://www.journals.uchicago.edu/doi/abs/10.1086/708819)
 
 Link to site we scrape: [Envision Job Listings](https://www.envisionphysicianservices.com/find-a-career/clinical-job-search?positiontype=225180003#JobList)
 
