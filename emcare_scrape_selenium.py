@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jun  2 22:19:15 2020
-
-@author: ns662
+@author: Nathan Shekita
 """
 
 from selenium import webdriver
@@ -12,7 +10,7 @@ from selenium.webdriver.common.by import By
 import pandas as pd
 
 #set path to where chrome driver is installed (selenium needs this to work)
-driver = webdriver.Chrome(executable_path='C:/Users/ns662/Documents/master_Python/chromedriver_win32/chromedriver.exe')
+driver = webdriver.Chrome(executable_path='C:/Users/your_path_to_chromedriver.exe')
 #set window size for when selenium opens
 driver.set_window_size(1080,800)
 #website of interest
